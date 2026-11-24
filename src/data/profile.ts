@@ -30,7 +30,7 @@ export interface ProfileConfig {
 }
 
 export const PROFILE: ProfileConfig = {
-  name: 'Mohamed Rifa',
+  name: 'Muhammadhu Rifa',
   monogram: 'MR',
   wordmark: 'RIFA',
   headline: 'Aspiring Data Engineer | Full-Stack Developer',
@@ -48,11 +48,11 @@ export const PROFILE: ProfileConfig = {
     'My experience combines technical projects, leadership, teamwork, and entrepreneurial thinking. I continuously develop my skills through hands-on projects and independent learning.',
   ],
   education: {
-    degree: 'BSc in Computer Science',
+    degree: 'Bcs ',
     faculty: 'Faculty of Science',
     institution: 'University of Ruhuna',
     location: 'Sri Lanka',
-    expectedGraduation: '2027 (Expected — pending CV confirmation)',
+    expectedGraduation: '2028 ',
   },
   location: 'Sri Lanka',
   availability:
@@ -67,8 +67,8 @@ export const PROFILE: ProfileConfig = {
   ],
   links: {
     github: 'https://github.com/mhdrifa',
-    linkedin: '', // [VERIFY_FROM_CV] Add verified LinkedIn URL, e.g. 'https://linkedin.com/in/your-handle'
-    email: '',    // [VERIFY_FROM_CV] Add verified contact email, e.g. 'mohamed.rifa@example.com'
+    linkedin: 'https://www.linkedin.com/in/muhammadhu-rifa-8406a5334/', // [VERIFY_FROM_CV] Add verified LinkedIn URL, e.g. 'https://linkedin.com/in/your-handle'
+    email: 'mrifa0920@gmail.com',    // [VERIFY_FROM_CV] Add verified contact email, e.g. 'mohamed.rifa@example.com'
     cvUrl: '/resume/Mohamed_Rifa_CV.pdf',
   },
   portrait: {
