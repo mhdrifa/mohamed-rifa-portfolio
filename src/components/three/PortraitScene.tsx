@@ -143,7 +143,7 @@ export function PortraitScene() {
           </div>
           <span className="inline-flex items-center gap-1.5 rounded-full border border-emerald-400/30 bg-emerald-400/10 px-2.5 py-1 font-mono text-[10px] text-emerald-300">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            2027 Intern
+            2027 MY YEAR
           </span>
         </div>
       </div>
